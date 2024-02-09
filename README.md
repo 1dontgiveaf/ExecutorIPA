@@ -1,2 +1,2 @@
 # ExecutorIPA
-iPAs for https://idontgiveaf.ccard.co
+iPAs for [my website](https://idontgiveaf.carrd.co/#)
