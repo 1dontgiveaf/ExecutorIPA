@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/poopoodoodoowhowho/ExecutorIPA/releases/download/Signed-Executor/CodexSigned.ipa</string>
+					<string>https://github.com/poopoodoodoowhowho/ExecutorIPA/releases/download/SignedExecutor-2/Arceus.X5.Signed.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.spdm.Codex</string>
+				<string>com.spdm.arceusx</string>
 				<key>bundle-version</key>
 				<string>2.610.472</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Codex</string>
+				<string>Arceus X</string>
 			</dict>
 		</dict>
 	</array>
